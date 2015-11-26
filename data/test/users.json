@@ -1,0 +1,29 @@
+[
+    {
+        "first_name": "Nicole",
+        "last_name": "Scherzinger",
+        "avatar": "http://api.randomuser.me/portraits/men/49.jpg",
+        "position": "junior java developer",
+        "email": "someEmail@gmail.com",
+        "password": "123456",
+        "roleId": 1
+    },
+    {
+        "first_name": "Lauri",
+        "last_name": "Ylonen",
+        "position": "junior javascript developer",
+        "avatar": "http://api.randomuser.me/portraits/women/56.jpg",
+        "email": "someEmail1@gmail.com",
+        "password": "password1",
+        "roleId": 2
+    },
+    {
+        "first_name": "Mikhail",
+        "last_name": "Omelin",
+        "position": "junior java developer",
+        "avatar": "http://api.randomuser.me/portraits/women/56.jpg",
+        "email": "someEmail2@gmail.com",
+        "password": "password2",
+        "roleId": 2
+    }
+]

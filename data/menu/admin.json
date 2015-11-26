@@ -1,0 +1,13 @@
+[
+    {
+        "id": "profile",
+        "name": "Profile",
+        "state": "settings.profile",
+        "icon": "glyphicon-user"
+    },
+    {
+        "id": "users_list",
+        "name": "Users",
+        "state": "settings.users_list"
+    }
+]

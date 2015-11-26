@@ -1,0 +1,12 @@
+[
+    {
+        "_id"  : 1,
+        "title": "Admin",
+        "value": "admin"
+    },
+    {
+        "_id": 2,
+        "title": "Regular",
+        "value": "regular"
+    }
+]

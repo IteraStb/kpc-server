@@ -1,0 +1,14 @@
+[
+    {
+        "id": "profile",
+        "name": "Profile",
+        "state": "settings.profile",
+        "icon": "glyphicon-user"
+    },
+    {
+        "id": "knowledge_list",
+        "name": "Knowledge list",
+        "state": "knowledge_list",
+        "icon": "glyphicon-list-alt"
+    }
+]

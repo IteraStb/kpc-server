@@ -1,0 +1,316 @@
+[
+    {
+        "id": 1,
+        "first_name": "Nicole",
+        "last_name": "Scherzinger",
+        "email": "someEmail@gmail.com",
+        "avatar": "http://api.randomuser.me/portraits/men/49.jpg",
+        "position": "junior java developer",
+        "knowledge_list": [
+            {
+                "id": "angular",
+                "title": "Angular",
+                "area": "framework/lib",
+                "log": [
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "true"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "false"
+                            },
+                           {
+                                "title": "Lalalalalala",
+                                "completed": "true"
+                            },
+                            {
+                                "title": "Very long task to check title if it shows nice in browser... Yey, nothing else to say, but i have to keep writing something. Hope that's enought.",
+                                "completed": "false"
+                            },
+                           {
+                                "title": "Finish ANYTHING!!!",
+                                "completed": "true"
+                            },
+                            {
+                                "title": "Kill Bill 2 season!",
+                                "completed": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "jasmine",
+                "title": "Jasmine",
+                "area": "framework/lib",
+                "log": [
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "tdd",
+                "title": "TDD",
+                "area": "framework/lib",
+                "log": [
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "unit_testing",
+                "title": "Unit testing",
+                "area": "technology",
+                "log": [
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2015-01-14T11:16:58.366Z",
+                        "score": "4",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "less",
+                "title": "LESS",
+                "area": "framework/lib",
+                "area": "language",
+                "log": [
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2015-01-14T11:16:58.366Z",
+                        "score": "4",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "sinon",
+                "title": "Sinon",
+                "area": "framework/lib",
+                "log": [
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "maven",
+                "title": "Maven",
+                "area": "something",
+                "log": [
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2015-01-14T11:16:58.366Z",
+                        "score": "9",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "semantic_versioning",
+                "title": "Semantic versioning",
+                "area": "semantic versioning",
+                "log": [
+                    {
+                        "date": "2015-01-15T15:16:58.366Z",
+                        "score": "7",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2015-01-14T11:16:58.366Z",
+                        "score": "9",
+                        "goals": [
+                            {
+                                "title": "Finish reading book",
+                                "completed": "false"
+                            },
+                            {
+                                "title": "Kill Bill!",
+                                "completed": "false"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "first_name": "Lauri",
+        "last_name": "Ylonen",
+        "position": "junior javascript developer",
+        "avatar": "http://api.randomuser.me/portraits/women/56.jpg"
+    }
+]

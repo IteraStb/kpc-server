@@ -1,0 +1,224 @@
+{
+    "_links" : {
+        "self": {
+            "href" : "/users"
+        }
+    },
+    "_embedded": {
+        
+    },
+    "users" : [
+        {
+            "id": "angular",
+            "title": "Angular",
+            "priority": "should",
+            "area": "fremework/lib",
+            "log": [
+                {
+                    "date": "2015-01-15T15:16:58.366Z",
+                    "score": "7",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "true"
+                        }
+                    ]
+                },
+                {
+                    "date": "2015-01-15T15:16:58.366Z",
+                    "score": "7",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "unit_testing",
+            "title": "Unit testing",
+            "priority": "could",
+            "log": [
+                {
+                    "date": "2015-01-15T15:16:58.366Z",
+                    "score": "7",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "true"
+                        }
+                    ]
+                },
+                {
+                    "date": "2015-01-14T11:16:58.366Z",
+                    "score": "4",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "maven",
+            "title": "Maven",
+            "priority": "could-not",
+            "log": [
+                {
+                    "date": "2015-01-15T15:16:58.366Z",
+                    "score": "7",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "true"
+                        }
+                    ]
+                },
+                {
+                    "date": "2015-01-14T11:16:58.366Z",
+                    "score": "9",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "angular",
+            "title": "Angular",
+            "priority": "should",
+            "area": "fremework/lib",
+            "log": [
+                {
+                    "date": "2015-01-15T15:16:58.366Z",
+                    "score": "7",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "true"
+                        }
+                    ]
+                },
+                {
+                    "date": "2015-01-15T15:16:58.366Z",
+                    "score": "7",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "unit_testing",
+            "title": "Unit testing",
+            "priority": "could",
+            "log": [
+                {
+                    "date": "2015-01-15T15:16:58.366Z",
+                    "score": "7",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "true"
+                        }
+                    ]
+                },
+                {
+                    "date": "2015-01-14T11:16:58.366Z",
+                    "score": "4",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "maven",
+            "title": "Maven",
+            "priority": "could-not",
+            "log": [
+                {
+                    "date": "2015-01-15T15:16:58.366Z",
+                    "score": "7",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "true"
+                        }
+                    ]
+                },
+                {
+                    "date": "2015-01-14T11:16:58.366Z",
+                    "score": "9",
+                    "goals": [
+                        {
+                            "title": "Finish reading book",
+                            "complete": "false"
+                        },
+                        {
+                            "title": "Kill Bill!",
+                            "complete": "false"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
