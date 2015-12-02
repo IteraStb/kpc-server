@@ -1,7 +1,7 @@
 Server Knowledge checklist
 ============
 
-Provides API for serve user data and knowledge lists.
+Provides API for server user data and knowledge lists.
 
 ## Development
 
@@ -24,7 +24,12 @@ To start developing in the project:
     `npm install`
         
 5. Run scripts to populate db with dummy data from 
-    `scripts/db`
+    `script/db`
     `for example: node ./script/db/set_users_collection.js`
     
 6. Run `node server.js` from the root to start the server
+
+Note!
+If you add new users to the database, make sure you cleared browser cookies. Otherwise, this leads to fatal errors.
+Mongo regerates ids for all users after new one is added. These ids are used to generate cookies for user. 
+So, if cookies are not cleared, new user is will conflict with the existing browser cookie. 
