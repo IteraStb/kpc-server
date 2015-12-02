@@ -1,5 +1,5 @@
-Server Knowledge checklist
-============
+Server Knowledge Checklist
+==========================
 
 Provides API for server user data and knowledge lists.
 
@@ -31,5 +31,5 @@ To start developing in the project:
 
 Note!
 If you add new users to the database, make sure you cleared browser cookies. Otherwise, this leads to fatal errors.
-Mongo regerates ids for all users after new one is added. These ids are used to generate cookies for user. 
-So, if cookies are not cleared, new user is will conflict with the existing browser cookie. 
+Mongo regerates ids for all users after new one is added. These ids are used to generate cookies for each user in db. 
+So, if cookies are not cleared, new user id will conflict with the existing browser cookie. 
