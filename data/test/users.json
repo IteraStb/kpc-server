@@ -25,5 +25,14 @@
         "email": "someEmail2@gmail.com",
         "password": "password2",
         "roleId": 2
+    },
+    {
+        "first_name": "Bane",
+        "last_name": "Black",
+        "position": "junior angularjs developer",
+        "avatar": "http://images.akamai.steamusercontent.com/ugc/452908955136883995/5D5331E4FCC6DD9034C1D4EFFDB9E7D483C560D7/",
+        "email": "bane@gmail.com",
+        "password": "123123q",
+        "roleId": 2
     }
 ]
