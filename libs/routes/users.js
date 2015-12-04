@@ -26,9 +26,13 @@ module.exports = {
         var id = req.param('id');
 
         return Users.getOne(id).then(function (user) {
+
             return resp.json(formatters.show(user));
+
         }, function(err){
+
             return err;
+
         }).done();
     },
     update: function(){
