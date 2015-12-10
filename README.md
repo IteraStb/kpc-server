@@ -1,7 +1,7 @@
 Server Knowledge Checklist
 ==========================
 
-Provides API for server user data and knowledge lists.
+Provides API for serving user data and knowledge lists.
 
 ## Development
 
