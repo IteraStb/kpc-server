@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "first_name": "Nicole",
+    "last_name": "Scherzinger",
+    "email": "someEmail@gmail.com",
+    "avatar": "http://api.randomuser.me/portraits/men/49.jpg",
+    "position": "junior java developer",
+    "knowledge_list": [
+      {
+        "id": "angular",
+        "title": "Angular",
+        "area": "framework/lib",
+        "severity": "10000",
+        "totalScore": "3",
+        "log": [
+          {
+            "date": "2015-01-15T15:16:58.366Z",
+            "score": "same",
+            "results": [
+              {
+                "title": "Learn how directives are created",
+                "resultNotes": "learned about q service"
+              }
+            ],
+            "goals": [
+              {
+                "title": "Learn how directives are created"
+              }
+            ]
+          },
+          {
+            "date": "2015-01-22T15:16:58.366Z",
+            "score": "same",
+            "results": [
+              {
+                "title": "Learn how directives are created",
+                "resultNotes": "learned about $http service"
+              }
+            ],
+            "goals": [
+              {
+                "title": "Learn how directives are created"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "es5",
+        "title": "Ecma Script 5",
+        "area": "Core",
+        "severity": "9000",
+        "totalScore": "4",
+        "log": [
+          {
+            "date": "2015-01-15T15:16:58.366Z",
+            "score": "same",
+            "results": [
+              {
+                "title": "scope, hoisting",
+                "resultNotes": " "
+              }
+            ],
+            "goals": [
+              {
+                "title": "scope, hoisting"
+              }
+            ]
+          },
+          {
+            "date": "2015-01-22T15:16:58.366Z",
+            "score": "same",
+            "results": [
+              {
+                "title": "scope, hoisting",
+                "resultNotes": "learned scope, hoisting"
+              }
+            ],
+            "goals": [
+              {
+                "title": "JS interview questions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unitTesting",
+        "title": "Unit/e2e testing",
+        "area": "Core",
+        "severity": "7000",
+        "totalScore": "2",
+        "log": [
+          {
+            "date": "2015-01-15T15:16:58.366Z",
+            "score": "3",
+            "results": [
+              {
+                "title": "spy",
+                "resultNotes": "good with spies"
+              }
+            ],
+            "goals": [
+              {
+                "title": "mock"
+              }
+            ]
+          },
+          {
+            "date": "2015-01-22T15:16:58.366Z",
+            "score": "same",
+            "results": [
+              {
+                "title": "mock",
+                "resultNotes": ""
+              }
+            ],
+            "goals": [
+              {
+                "title": "mock"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
