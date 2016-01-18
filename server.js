@@ -33,6 +33,11 @@ app.get('/users',  routes.sessions.isExist, routes.users.index);
 app.get('/roles',  routes.sessions.isExist, routes.roles.index);
 app.get('/topics', routes.sessions.isExist, routes.topics.index);
 
+//for testing only
+app.get('/logs', function(req, res) {
+    res.sendFile(__dirname+'/data/knowledge-list-log.json');
+});
+
 app.get('/users/show/:id', routes.users.show);
 
 app.get('/menu', function(req, res) { // TODO : make seperate route for menu
