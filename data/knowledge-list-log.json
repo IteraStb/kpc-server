@@ -18,30 +18,21 @@
             "date": "2015-01-15",
             "score": "same",
             "results": [
-              {
-                "title": "Learn how directives are created",
-                "resultNotes": "learned about q service"
-              }
+              "Learn how directives are created",
+              "learned about q service"
             ],
             "goals": [
-              {
-                "title": "Learn how directives are created"
-              }
+              "Learn how directives are created"
             ]
           },
           {
             "date": "2015-01-22",
             "score": "same",
             "results": [
-              {
-                "title": "Learn how directives are created",
-                "resultNotes": "learned about $http service"
-              }
+              "learned about $http service"
             ],
             "goals": [
-              {
-                "title": "Learn how directives are created"
-              }
+              "Learn how directives are created"
             ]
           }
         ]
